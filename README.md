@@ -62,8 +62,6 @@ Multiple themed dashboard environments were created to encourage employee partic
 
 - Freddy vs Jason
 - Harry Potter
-- Mortal Kombat
-- NFL-style team competitions
 
 These themes were designed to improve employee participation while maintaining operational KPI visibility and workforce accountability.
 
